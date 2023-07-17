@@ -1,0 +1,194 @@
+body{
+    /* background-color: black; */
+    /* background-color: gray; */
+
+    /* ========== Background ========== */
+    /* background-color: skyblue; */
+    /* background: linear-gradient(to top, skyblue, lightgreen); */
+    /* background: linear-gradient(to left, skyblue, lightgreen); */
+    /* background: linear-gradient(to right, skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+    /* background-image: url(buildings.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; */
+}
+h1 {
+    /* color: white; */
+
+    /* ========== Font ========== */
+    /* font-family: "press Start 2P", "consolas", sans-serif; */
+
+    /* ========== Border ========== */
+    /* border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-left-color: silver; */
+
+    /* ========== Background ========== */
+    /* background: linear-gradient(to right, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+p {
+    /* background-color: gray;  */
+    /* color: white; */
+
+    /* ========== Font ========== */
+    /* color: #00FF73;
+    font-family: "consolas", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: cyan dotted underline;
+    font-size: 18px; */
+
+    /* ========== Border ========== */
+    /* border-style: outset;
+    border-width: 5px;
+    border-color: gold;
+    border-radius: 10px;
+    padding: 5px; */
+
+    /* ========== Background ========== */
+    /* background: linear-gradient(to left, skyblue, white);
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+
+/* #p1 {
+    color: tomato;
+} */
+/* #p2 {
+    color: tomato;
+} */
+/* #p3 {
+    color: tomato;
+} */
+/* #p4 {
+    color: tomato;
+} */
+
+
+/* .odd {
+    color: red;
+}
+
+.even {
+    color: blue;
+} */
+
+/* ========== Margin ========== */
+body{
+    /* border: 2px solid; */
+    /* margin: 0px; */
+}
+
+#box1{
+    /* border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: greenyellow;   */
+
+    /* padding: 40px; */
+
+    /* margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;  */
+    /* margin: 50px; */
+
+    /* margin-left: 50%; */
+    /* margin-left: auto;
+    margin-right: auto; */
+
+
+}
+/* #box2{
+    border: 5px solid;
+    width: 250px;
+    height: 250px;
+    font-size: 22px;
+    background: dodgerblue;    
+} */
+
+
+/* ========== Float ========== */
+/* Inline Example */
+img {
+    /* float: left; */
+    /* float: right; */
+}
+
+/* Block-level Example */
+.box {
+    /* width: 100px;
+    height: 100px;
+    border: 1px solid;
+    font-size: 40px;
+    text-align: center;
+    background: tomato; */
+
+    /* float: left; */
+    /* float: right; */
+}
+p{
+    /* clear: left; */
+    /* clear: right; */
+    /* clear: both; */
+}
+
+
+/* ========== Position ========== */
+#box1 {
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    background-color: skyblue;
+
+    /* position: static; */
+
+    /* position: relative; */
+    /* top: 50px;
+    left: 50px; */
+    /* top: 150px;
+    left: 150px; */
+
+    
+    /* position: relative;
+    left: 250px;
+    top: 250px; */
+
+    /* position: fixed;
+    top: 0px;
+    right: 0px; */
+
+    position: sticky;
+    /* top: 0px; */
+    /* bottom: 0px; */
+    top:0px;
+    bottom: 0px;
+}
+#box2 {
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color: tomato;
+    
+    /* position: relative;
+    top: 150px;
+    left: 150px; */
+
+    position: absolute;
+    /* top:0; */
+    /* top: 150px;
+    left: 150px; */
+    top: 100px;
+    left: 100px;
+}
+
+
+
