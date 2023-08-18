@@ -1,0 +1,184 @@
+[
+  {
+    "city": "Tehran",
+    "Day": {
+      "Saturday": {
+        "weather": {
+          "temperature": 22,
+          "description": "Sunny",
+          "AQI": 55
+        },
+        "isoDate": "2023-08-13T18:08:16Z"
+      },
+      "Sunday": {
+        "weather": {
+          "temperature": 28,
+          "description": "Clear",
+          "AQI": 40
+        },
+        "isoDate": "2023-08-14T18:08:16Z"
+      },
+      "Monday": {
+        "weather": {
+          "temperature": 18,
+          "description": "Partly Cloudy",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-15T18:08:16Z"
+      },
+      "Tuesday": {
+        "weather": {
+          "temperature": 18,
+          "description": "Partly Cloudy",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-16T18:08:16Z"
+      },
+      "Wednesday": {
+        "weather": {
+          "temperature": 18,
+          "description": "Partly Cloudy",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-17T18:08:16Z"
+      },
+      "Thursday": {
+        "weather": {
+          "temperature": 18,
+          "description": "Partly Cloudy",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-18T18:08:16Z"
+      },
+      "Now": {
+        "weather": {
+          "temperature": 18,
+          "description": "Partly Cloudy",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-19T18:08:16Z"
+      }
+    }
+  },
+  {
+    "city": "Sao Paulo",
+    "Day": {
+      "Saturday": {
+        "weather": {
+          "temperature": 35,
+          "description": "Sunny",
+          "AQI": 65
+        },
+        "isoDate": "2023-08-13T18:08:16Z"
+      },
+      "Sunday": {
+        "weather": {
+          "temperature": 28,
+          "description": "Clear",
+          "AQI": 80
+        },
+        "isoDate": "2023-08-14T18:08:16Z"
+      },
+      "Monday": {
+        "weather": {
+          "temperature": 25,
+          "description": "Partly Cloudy",
+          "AQI": 68
+        },
+        "isoDate": "2023-08-15T18:08:16Z"
+      },
+      "Tuesday": {
+        "weather": {
+          "temperature": 12,
+          "description": "windy",
+          "AQI": 25
+        },
+        "isoDate": "2023-08-16T18:08:16Z"
+      },
+      "Wednesday": {
+        "weather": {
+          "temperature": 10,
+          "description": " Cloudy",
+          "AQI": 11
+        },
+        "isoDate": "2023-08-17T18:08:16Z"
+      },
+      "Thursday": {
+        "weather": {
+          "temperature": 18,
+          "description": "Rainy",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-18T18:08:16Z"
+      },
+      "Now": {
+        "weather": {
+          "temperature": 40,
+          "description": "Partly Sunny",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-19T18:08:16Z"
+      }
+    }
+  },{
+    "city": "Otava",
+    "Day": {
+      "Saturday": {
+        "weather": {
+          "temperature": 22,
+          "description": "Sunny",
+          "AQI": 55
+        },
+        "isoDate": "2023-08-13T18:08:16Z"
+      },
+      "Sunday": {
+        "weather": {
+          "temperature": 28,
+          "description": "Clear",
+          "AQI": 40
+        },
+        "isoDate": "2023-08-14T18:08:16Z"
+      },
+      "Monday": {
+        "weather": {
+          "temperature": 18,
+          "description": "Partly Cloudy",
+          "AQI": 70
+        },
+        "isoDate": "2023-08-15T18:08:16Z"
+      },
+      "Tuesday": {
+        "weather": {
+          "temperature": 8,
+          "description": "Snowy",
+          "AQI": 26
+        },
+        "isoDate": "2023-08-16T18:08:16Z"
+      },
+      "Wednesday": {
+        "weather": {
+          "temperature": 9,
+          "description": "Cloudy",
+          "AQI": 38
+        },
+        "isoDate": "2023-08-17T18:08:16Z"
+      },
+      "Thursday": {
+        "weather": {
+          "temperature": 16,
+          "description": "Windy",
+          "AQI": 54
+        },
+        "isoDate": "2023-08-18T18:08:16Z"
+      },
+      "Now": {
+        "weather": {
+          "temperature": 16,
+          "description": "Rainy",
+          "AQI": 36
+        },
+        "isoDate": "2023-08-19T18:08:16Z"
+      }
+    }
+  }
+]
