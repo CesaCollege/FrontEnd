@@ -1,0 +1,22 @@
+.fullComment{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e0e7ff;
+    width: 600px;
+    height: 200px;
+    color: #4338ca;
+    border-radius: 5px ;
+    margin-top: 30px;
+}
+
+.delete{
+    padding: 5px 12px;
+    border: 1px solid none ;
+    color: rgb(238, 223, 226);
+    cursor: pointer;
+    background-color: rgb(241, 65, 100);
+    font-size: 14px;
+    font-family: sans-serif;
+}
